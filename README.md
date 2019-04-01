@@ -2,6 +2,7 @@
 Sample bison flex demo based on bison 3.3 and flex 2.6.4
 
 Build by running "make calc++"
+Run with "./calc++ test.txt"
 
 This demo is based on both the bison 3.3 calc++ demo and the example here https://github.com/bingmann/flex-bison-cpp-example
 
